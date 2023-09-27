@@ -1,0 +1,25 @@
+.contenedor_contacto {
+  width: 48%;
+  height: 100%;
+  margin: auto;
+}
+.form {
+  height: 100%;
+  margin: auto;
+  padding-top: 15px;
+  padding-left: 50px;
+}
+label {
+  display: block;
+  width: 120px;
+  height: 25px;
+  text-align: left;
+  font-family: "Sans Serif", "Times New Roman";
+  font-size: 18px;
+}
+input {
+  height: 30px;
+}
+.buttonForm{
+  margin-top: 50px;
+}

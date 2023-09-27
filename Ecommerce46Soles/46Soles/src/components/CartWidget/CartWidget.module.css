@@ -1,0 +1,14 @@
+.buttonCartWidget {
+  margin-left: 420px;
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 10px 35px 5px;
+  background-color: #cbdad3;
+  border-radius: 10px;
+}
+.imgCart {
+  margin-bottom: -25px;
+  margin-left: 5px;
+}

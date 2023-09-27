@@ -1,0 +1,34 @@
+.imgheader {
+  width: 300px;
+  height: 170px;
+  margin-top: -65px;
+  border: 2px outset;
+  border-color: #23014d;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.NavBar{
+  display: inline-flex;
+  width: 98%;
+  height: 37px;
+  margin-left: 20px;
+  margin-top: 80px;
+  font-size: 20px;
+  font-family: "Sans Serif", "Times New Roman";  
+}
+.button {
+  margin-left: 150px;
+  margin-right: -100px;
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 7px 7px 7px 7px;
+  background-color: #cbdad3;
+  border-radius: 10px;
+  border-color: #23014d;
+}
+button:hover {
+  color: #F1E0F9;
+  background-color: #5E06C6;
+}

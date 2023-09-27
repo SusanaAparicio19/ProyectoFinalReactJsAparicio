@@ -1,0 +1,12 @@
+.loader {
+	.vortex-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 150px;
+        width: 150px;
+        text-align: center;
+        color: purple, green, purple, green, purple, green;
+      }
+  
+}
